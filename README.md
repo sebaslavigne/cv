@@ -54,10 +54,10 @@ My [dissertation](https://github.com/sebaslavigne/java-untersee), a submarine si
 
 ## 🗨️ Languages
 
-**Spanish**: Native
+**Spanish**: Native<br>
 **English**: Bilingual <br>
 **French**: Moderate understanding <br>
-**German**: Über basic <br>
+**German**: Über basic
 
 <br><br>
 
