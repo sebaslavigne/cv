@@ -21,7 +21,8 @@ Consulting service for the Spanish Gambling Regulation Authority, supporting leg
 Consulting service for the Community of Madrid's Digital Administration Agency, migrating their quality control procedures into SonarQube using custom rules.
   - **_Tasks:_** Study the feasability of converting existing custom Cover (proprietary quality analysis software) rules to Sonar
   - [Self-taught](https://github.com/sebaslavigne/sonar-klingon-plugin) custom rule development, library integration, external reports importing, custom metrics and post-analysis process implementation
-  - Created a guide to easily interpret equivalent concepts from Cover to Sonar
+  - Documented methodology to easily interpret equivalent concepts from Cover to Sonar
+  - Established a platform with examples encompassing all the required types of rules present in the project
   - **_Environment:_** SonarQube 7, Java 1.8, Subversion
   - **_Tools:_** IntelliJ IDEA
 <br><br>
