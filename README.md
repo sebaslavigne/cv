@@ -2,7 +2,7 @@
 
 **QA technician** at [MTP](https://www.mtp.es/) <span class="daterange">_(Jun 2021 - Present)_</span> <br>
 Quality assurance and continuous integration consulting for multiple companies in the insurance industry.
-  - **_Tools:_** SonarQube, Kiuwan
+  - **_Tools:_** SonarQube, Kiuwan, Jenkins, JIRA
 <br><br> 
 
 **Senior developer** at [Bilbomática](https://www.bilbomatica.es/), consulting for [CSIC](https://www.csic.es/) <span class="daterange">_(Mar 2021 - May 2021)_</span> <br>
