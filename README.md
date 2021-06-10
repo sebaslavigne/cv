@@ -1,6 +1,11 @@
 ## 👨‍💼 Work experience
 
-**Senior developer** at [Bilbomática](https://www.bilbomatica.es/), consulting for [CSIC](https://www.csic.es/) <span class="daterange">_(Mar 2021 - Present)_</span> <br>
+**QA technician** at [MTP](https://www.mtp.es/) <span class="daterange">_(Jun 2021 - Present)_</span> <br>
+Quality assurance and continuous integration consulting for multiple companies in the insurance industry.
+  - **_Tools:_** SonarQube, Kiuwan
+<br><br> 
+
+**Senior developer** at [Bilbomática](https://www.bilbomatica.es/), consulting for [CSIC](https://www.csic.es/) <span class="daterange">_(Mar 2021 - May 2021)_</span> <br>
 Consulting service for the Spanish National Research Council, supporting legacy applications that manage subsidies to third-party investigators.
   - **_Tasks:_** Analysis, development, maintenance, quality control, versioning, testing, deployment and documentation of multiple legacy applications
   - **_Environment:_** Java 1.6 / J2EE (Spring 2, Struts 1, JSF 1, Maven, Hibernate / JDBC), Subversion, Oracle Database, Alfresco, JBoss
