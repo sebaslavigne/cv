@@ -2,7 +2,7 @@
 
 **QA analyst** at [MTP](https://www.mtp.es/) <span class="daterange">_(Jun 2021 - Present)_</span> <br>
 Quality assurance and continuous integration consulting for multiple companies in the insurance industry.
-  - **_Tasks:_** Analyzing, devising and establishing QA audits in various projects, consulting directly with clients' development teams, developing custom static analysis rules, automating data extraction from tool APIs to create custom reports
+  - **_Tasks:_** Analyzing, devising and establishing QA audits in various projects, consulting directly with clients' development teams, developing custom static analysis rules, automating data extraction from tool APIs to create custom reports, configuring CI pipelines
   - **_Tools:_** SonarQube, Kiuwan, Jenkins, JIRA, IntelliJ IDEA
 <br><br> 
 
