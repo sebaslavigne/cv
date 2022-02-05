@@ -2,8 +2,7 @@
 
 **Software and QA analyst** at [MTP](https://www.mtp.es/), consulting for [Banco de España](https://www.bde.es/bde/es/) <span class="daterange">_(Oct 2021 - Feb 2022)_</span> <br>
 Complete QA solution tailor made for the Bank of Spain  
-  - **_Tasks:_** 
-    - Analyzing, devising and setting up QA models within a platform migration from checKing to Kiuwan
+  - **_Tasks:_** Analysis, design and configuration of QA models within a platform migration from checKing to Kiuwan
     - Implemented Kiuwan custom rules adapted to specific quality requirements of Banco de España
     - Designed a DB and developed a dockerized API that stored and managed internal quality metrics, before being further processed in Kiuwan
     - Developed internal libraries to map data and perform massive migration of apps between checKing and Kiuwan
@@ -14,7 +13,7 @@ Complete QA solution tailor made for the Bank of Spain
 
 **QA technician** at [MTP](https://www.mtp.es/) <span class="daterange">_(Jun 2021 - Oct 2021)_</span> <br>
 Quality assurance and continuous integration consulting for multiple companies in the insurance industry.
-  - **_Tasks:_** Analyzing, devising and establishing QA audits in various projects, consulting directly with clients' development teams, automating data extraction from tool APIs to create custom reports, configuring CI pipelines
+  - **_Tasks:_** Analysis, design and establishment of QA audits in various projects, direct consultation with clients' development teams, automation of data extraction from tool APIs to create custom reports, configuration of CI pipelines
   - **_Tools:_** SonarQube, Kiuwan, Jenkins, JIRA, IntelliJ IDEA
 <br><br> 
 
@@ -37,7 +36,7 @@ Consulting service for the Spanish Gambling Regulation Authority, supporting leg
 
 **Junior developer** at [Bilbomática](https://www.bilbomatica.es/), consulting for Madrid Digital <span class="daterange">_(Oct 2019)_</span> <br>
 Consulting service for the Community of Madrid's Digital Administration Agency, migrating their quality control procedures into SonarQube using custom rules.
-  - **_Tasks:_** Study the feasability of converting existing custom Cover (proprietary quality analysis software) rules to Sonar
+  - **_Tasks:_** Study the feasibility of converting existing custom Cover (proprietary quality analysis software) rules to Sonar
     - [Learnt](https://github.com/sebaslavigne/sonar-klingon-plugin) Sonar custom rule development, library integration, external report importing, custom metrics and post-analysis process implementation
     - Documented methodology to easily interpret equivalent concepts from Cover to Sonar
     - Established a platform with examples encompassing all the required types of rules present in the project
