@@ -2,8 +2,8 @@
 
 **Software and QA analyst** at [MTP](https://www.mtp.es/), consulting for [Banco de España](https://www.bde.es/bde/es/) <span class="daterange">_(Oct 2021 - Feb 2022)_</span> <br>
 Complete QA solution tailor made for the Bank of Spain  
-  **_Tasks:_** 
-    - Analyzing, devising and establishing QA models within a platform migration from checKing to Kiuwan
+  - **_Tasks:_** 
+    - Analyzing, devising and setting up QA models within a platform migration from checKing to Kiuwan
     - Implemented Kiuwan custom rules adapted to specific quality requirements of Banco de España
     - Designed a DB and developed a dockerized API that stored and managed internal quality metrics, before being further processed in Kiuwan
     - Developed internal libraries to map data and perform massive migration of apps between checKing and Kiuwan
@@ -48,7 +48,7 @@ Consulting service for the Community of Madrid's Digital Administration Agency, 
 **Full stack developer intern** at [Docuten](https://docuten.com) <span class="daterange">_(Mar 2019 - May 2019)_</span> <br>
 A digital signature and electronic invoicing, and payments service.
   - **_Tasks:_** Development, support and maintenance for the web portal and various APIs
-  - Brought up to speed in an Agile environment working as a full-fledged member of the tech team
+    - Brought up to speed in an Agile environment working as a full-fledged member of the tech team
   - **_Environment:_** Java 1.8 (Spring 4, Struts 2, Hibernate, Gradle, Groovy, Spock), Javascript (Bootstrap), Git (Git Flow), MySQL, SOAP, REST, Scrum
   - **_Tools:_** IntelliJ IDEA, MySQL Workbench, SoapUI, Postman, Jenkins, SonarQube, JIRA
 
