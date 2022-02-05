@@ -1,6 +1,6 @@
 ## 👨‍💼 Work experience
 
-**Software and QA analyst** at [MTP](https://www.mtp.es/), consulting for [Banco de España](https://www.bde.es/bde/es/) <span class="daterange">_(Jun 2021 - Present)_</span> <br>
+**Software and QA analyst** at [MTP](https://www.mtp.es/), consulting for [Banco de España](https://www.bde.es/bde/es/) <span class="daterange">_(Oct 2021 - Feb 2022)_</span> <br>
 Complete QA solution tailor made for the Bank of Spain
   - **_Tasks:_** Analyzing, devising and establishing QA models within a platform migration from checKing to Kiuwan
     - Implemented Kiuwan custom rules adapted to specific quality requirements of Banco de España
@@ -11,7 +11,7 @@ Complete QA solution tailor made for the Bank of Spain
   - **_Tools:_** Eclipse IDE, Kiuwan, PL/SQL Developer, SoapUI
 <br><br> 
 
-**QA technician** at [MTP](https://www.mtp.es/) <span class="daterange">_(Jun 2021 - Present)_</span> <br>
+**QA technician** at [MTP](https://www.mtp.es/) <span class="daterange">_(Jun 2021 - Oct 2021)_</span> <br>
 Quality assurance and continuous integration consulting for multiple companies in the insurance industry.
   - **_Tasks:_** Analyzing, devising and establishing QA audits in various projects, consulting directly with clients' development teams, automating data extraction from tool APIs to create custom reports, configuring CI pipelines
   - **_Tools:_** SonarQube, Kiuwan, Jenkins, JIRA, IntelliJ IDEA
