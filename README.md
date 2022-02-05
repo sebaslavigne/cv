@@ -1,8 +1,19 @@
 ## 👨‍💼 Work experience
 
-**QA analyst** at [MTP](https://www.mtp.es/) <span class="daterange">_(Jun 2021 - Present)_</span> <br>
+**Software and QA analyst** at [MTP](https://www.mtp.es/), consulting for [Banco de España](https://www.bde.es/bde/es/) <span class="daterange">_(Jun 2021 - Present)_</span> <br>
+Complete QA solution tailor made for the Bank of Spain
+  - **_Tasks:_** Analyzing, devising and establishing QA models within a platform migration from checKing to Kiuwan
+    - Implemented Kiuwan custom rules adapted to specific quality requirements of Banco de España
+    - Designed a DB and developed a dockerized API that stored and managed internal quality metrics, before being further processed in Kiuwan
+    - Developed internal libraries to map data and perform massive migration of apps between checKing and Kiuwan
+    - Provided support and trained teams in the use and maintenance of these new tools
+  - **_Environment:_** Java 1.8, Kiuwan Analyzer, Spring Boot, Oracle Database, Docker, Swagger, Gradle, Git
+  - **_Tools:_** Eclipse IDE, Kiuwan, PL/SQL Developer, SoapUI
+<br><br> 
+
+**QA technician** at [MTP](https://www.mtp.es/) <span class="daterange">_(Jun 2021 - Present)_</span> <br>
 Quality assurance and continuous integration consulting for multiple companies in the insurance industry.
-  - **_Tasks:_** Analyzing, devising and establishing QA audits in various projects, consulting directly with clients' development teams, developing custom static analysis rules, automating data extraction from tool APIs to create custom reports, configuring CI pipelines
+  - **_Tasks:_** Analyzing, devising and establishing QA audits in various projects, consulting directly with clients' development teams, automating data extraction from tool APIs to create custom reports, configuring CI pipelines
   - **_Tools:_** SonarQube, Kiuwan, Jenkins, JIRA, IntelliJ IDEA
 <br><br> 
 
@@ -16,9 +27,9 @@ Consulting service for the Spanish National Research Council, supporting legacy 
 **Junior developer** at [Bilbomática](https://www.bilbomatica.es/), consulting for [DGOJ](https://www.ordenacionjuego.es/) <span class="daterange">_(Nov 2019 - Feb 2021)_</span> <br>
 Consulting service for the Spanish Gambling Regulation Authority, supporting legacy applications that process requests related to gambling activities.
   - **_Tasks:_** Development, maintenance, versioning, accessibility fixes, testing and deployment of framework and non-framework applications
-  - Developed a repository that centralized citizen and enterprise information which was previously stored independently by the different DGOJ's applications, created the subsequent data migration processes and integrated across the project
-  - Implemented new internal libraries
-  - Updated the in-house framework to comply with new security requirements
+    - Developed a repository that centralized citizen and enterprise information which was previously stored independently by the different DGOJ's applications, created the subsequent data migration processes and integrated across the project
+    - Implemented new internal libraries
+    - Updated the in-house framework to comply with new security requirements
   - **_Environment:_** Java 1.8 / J2EE (Spring 3, Struts, Maven, Hibernate / Ibatis / JDBC, SOAP Web Services, JUnit), Subversion, Oracle Database, Alfresco, Apache Tomcat
   - **_Tools:_** Eclipse IDE, Oracle SQL Developer, SoapUI
 <br><br>
@@ -26,9 +37,9 @@ Consulting service for the Spanish Gambling Regulation Authority, supporting leg
 **Junior developer** at [Bilbomática](https://www.bilbomatica.es/), consulting for Madrid Digital <span class="daterange">_(Oct 2019)_</span> <br>
 Consulting service for the Community of Madrid's Digital Administration Agency, migrating their quality control procedures into SonarQube using custom rules.
   - **_Tasks:_** Study the feasability of converting existing custom Cover (proprietary quality analysis software) rules to Sonar
-  - [Self-taught](https://github.com/sebaslavigne/sonar-klingon-plugin) custom rule development, library integration, external reports importing, custom metrics and post-analysis process implementation
-  - Documented methodology to easily interpret equivalent concepts from Cover to Sonar
-  - Established a platform with examples encompassing all the required types of rules present in the project
+    - [Learnt](https://github.com/sebaslavigne/sonar-klingon-plugin) Sonar custom rule development, library integration, external report importing, custom metrics and post-analysis process implementation
+    - Documented methodology to easily interpret equivalent concepts from Cover to Sonar
+    - Established a platform with examples encompassing all the required types of rules present in the project
   - **_Environment:_** SonarQube 7, Java 1.8, Subversion
   - **_Tools:_** IntelliJ IDEA
 <br><br>
@@ -44,7 +55,7 @@ A digital signature and electronic invoicing, and payments service.
 
 ## 🔧 Other projects
 
-**Mod creator** <span class="daterange">_(Apr 2020 - Present)_</span> <br>
+**Mod developer** <span class="daterange">_(2020)_</span> <br>
 _Bear my Banner_ is a deeply customizable mod for _Mount & Blade II: Bannerlord_ that adds banners into the game using existing but hidden game assets. It's hosted on [NexusMods](https://github.com/sebaslavigne/BearMyBanner) and open sourced in [GitHub](https://www.nexusmods.com/mountandblade2bannerlord/mods/432?tab=description).
   - Learning C# and overcoming a different kind of programming challenge
   - Working together with other creators to bring an easy modding experience for players
@@ -111,9 +122,9 @@ My [dissertation](https://github.com/sebaslavigne/java-untersee), a submarine si
 **IDEs**
 * IntelliJ IDEA, NetBeans, Eclipse
 * Visual Studio
+* PyCharm
+* TeXstudio
 * Android Studio
 * Spyder
-* PyCharm
 * Unity3D
 * GameMaker
-* TeXStudio
