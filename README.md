@@ -3,6 +3,7 @@
 **QA engineer** at [MTP](https://www.mtp.es/) <span class="daterange">_(Jun 2021 - present)_</span> <br>
 Quality assurance and continuous integration consulting for insurance and banking industries and government institutions.
   - **_Tasks:_** Analysis, design and establishment of QA audits in various projects specialising in code analysis. Direct consultation with clients' development teams, automation of data extraction from APIs, custom reporting and configuration of CI pipelines
+  - **_Environment_** Java, Python
   - **_Tools:_** SonarQube, Kiuwan, Jenkins, JIRA, IntelliJ IDEA
 <br><br> 
 
