@@ -1,20 +1,20 @@
 ## 👨‍💼 Work experience
 
-**Software and QA analyst** at [MTP](https://www.mtp.es/), consulting for [Banco de España](https://www.bde.es/bde/es/) <span class="daterange">_(Oct 2021 - Feb 2022)_</span> <br>
+**QA engineer** at [MTP](https://www.mtp.es/) <span class="daterange">_(Jun 2021 - present)_</span> <br>
+Quality assurance and continuous integration consulting for insurance and banking industries and government institutions.
+  - **_Tasks:_** Analysis, design and establishment of QA audits in various projects specialising in code analysis. Direct consultation with clients' development teams, automation of data extraction from APIs, custom reporting and configuration of CI pipelines
+  - **_Tools:_** SonarQube, Kiuwan, Jenkins, JIRA, IntelliJ IDEA
+<br><br> 
+
+**Lead developer** at [MTP](https://www.mtp.es/), consulting for [Banco de España](https://www.bde.es/bde/es/) <span class="daterange">_(Oct 2021 - Feb 2022)_</span> <br>
 Complete QA solution tailored for the Bank of Spain.
   - **_Tasks:_** Analysis, design and configuration of QA models within a platform migration from checKing to Kiuwan
     - Implemented Kiuwan custom rules adapted to specific quality requirements of Banco de España
     - Designed a DB and developed a dockerized API that stored and managed internal quality metrics, before being further processed in Kiuwan
     - Developed internal libraries to map data and perform massive migration of apps between checKing and Kiuwan
     - Provided support and trained teams in the use and maintenance of these new tools
-  - **_Environment:_** Java 1.8, Kiuwan Analyzer, Spring Boot, Oracle Database, Docker, Swagger, Gradle, Git
+  - **_Environment:_** Java 1.8, Kiuwan Analyzer, Spring Boot, Junit, Mockito, Oracle Database, Docker, Swagger, Gradle, Git
   - **_Tools:_** Eclipse IDE, Kiuwan, PL/SQL Developer, SoapUI
-<br><br> 
-
-**QA technician** at [MTP](https://www.mtp.es/) <span class="daterange">_(Jun 2021 - Oct 2021)_</span> <br>
-Quality assurance and continuous integration consulting for multiple companies in the insurance industry.
-  - **_Tasks:_** Analysis, design and establishment of QA audits in various projects, direct consultation with clients' development teams, automation of data extraction from tool APIs to create custom reports, configuration of CI pipelines
-  - **_Tools:_** SonarQube, Kiuwan, Jenkins, JIRA, IntelliJ IDEA
 <br><br> 
 
 **Senior developer** at [Bilbomática](https://www.bilbomatica.es/), consulting for [CSIC](https://www.csic.es/) <span class="daterange">_(Mar 2021 - May 2021)_</span> <br>
