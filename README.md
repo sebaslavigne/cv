@@ -85,7 +85,7 @@ My [dissertation](https://github.com/sebaslavigne/java-untersee), a submarine si
 *I.E.S Valle del Jerte*, Plasencia, Spain
 <br><br>
   
-**Bachelor's Degree in Aerospatial Engineer (Unfinished)** <span class="daterange">_(2011 - 2015)_</span> <br>
+**Bachelor's Degree in Aerospatial Engineering (Unfinished)** <span class="daterange">_(2011 - 2015)_</span> <br>
 *Escuela Técnica Superior de Ingeniería Aeronáutica y del Espacio, U.P.M.*, Madrid, Spain
 
 <br><br>
