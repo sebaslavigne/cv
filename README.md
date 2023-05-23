@@ -3,14 +3,14 @@
 **Software engineer** at [RHEA](https://www.rheagroup.com/) <span class="daterange">_(Sep 2022 - present)_</span> <br>
 Ground Segment systems software engineering and technical support for ESA/ESOC and other space agencies and ventures.
   - **_Tasks:_** Perform development, maintenance and provide user technical support on RHEA's MOIS platform (mission operations preparation, validation and execution) for various spacecraft missions on ESA/ESOC and Astroscale. Extend the ESA Ground Segment Engineering Framework (GSEF) to model earlier phases of mission design using MBSE approaches. Integrate telemmetry and event data visualisation in Grafana.
-  - **_Environment_** Java, VB.NET, Python
+  - **_Environment:_** Java, VB.NET, Python
   - **_Tools:_** Docker, JIRA, SysMLv2, Eclipse EMF, MOIS, GSEF, Grafana
 <br><br> 
 
 **QA engineer** at [MTP](https://www.mtp.es/) <span class="daterange">_(Jun 2021 - Sep 2022)_</span> <br>
 Quality assurance and continuous integration consulting for insurance and banking industries and government institutions.
   - **_Tasks:_** Analysis, design and establishment of QA audits in various projects specialising in code analysis. Direct consultation with clients' development teams, automation of data extraction from APIs, custom reporting and configuration of CI pipelines
-  - **_Environment_** Java, Python
+  - **_Environment:_** Java, Python
   - **_Tools:_** SonarQube, Kiuwan, Jenkins, JIRA, IntelliJ IDEA
 <br><br> 
 
