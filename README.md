@@ -25,32 +25,14 @@ Complete QA solution tailored for the Bank of Spain.
   - **_Tools:_** Eclipse IDE, Kiuwan, PL/SQL Developer, SoapUI
 <br><br> 
 
-**Senior developer** at [Bilbomática](https://www.bilbomatica.es/), consulting for [CSIC](https://www.csic.es/) <span class="daterange">_(Mar 2021 - May 2021)_</span> <br>
-Consulting service for the Spanish National Research Council, supporting legacy applications that manage subsidies to third-party investigators.
-  - **_Tasks:_** Analysis, development, maintenance, quality control, versioning, testing, deployment and documentation of multiple legacy applications
-  - **_Environment:_** Java 1.6 / J2EE (Spring 2, Struts 1, JSF 1, Maven, Hibernate / JDBC), Subversion, Oracle Database, Alfresco, JBoss
-  - **_Tools:_** NetBeans IDE, Toad for Oracle, SonarQube, Jenkins, JMeter, Redmine
+**Junior / Senior developer** at [Bilbomática](https://www.bilbomatica.es/) <span class="daterange">_(Oct 2019 - May 2021)_</span> <br>
+Consulting service for various public administration institutions such as the Spanish Gambling Regulation Authority ([DGOJ](https://www.ordenacionjuego.es/)), Spanish National Research Council ([CSIC](https://www.csic.es/)) and the Community of Madrid's Digital Administration Agency ([Madrid Digital](https://www.comunidad.madrid/servicios/sede-electronica/madrid-digital)), supporting legacy applications and developing new solutions.
+  - **_Tasks:_** Analysis, development, maintenance, quality control, versioning, testing, deployment and documentation of multiple legacy applications.
+    - Developed a repository that centralized citizen and enterprise information which was previously stored independently by multiple applications, created the subsequent data migration processes and integrated across the project
+    - Sonar custom rule development, library integration, external report importing, custom metrics and post-analysis process implementation
+  - **_Environment:_** Java 1.6, 1.8 / J2EE, SVN, Git, Oracle, MySQL, Alfresco
+  - **_Tools:_** SonarQube, Jenkins, JMeter, Redmine, SoapUI, NetBeans IDE, Eclipse IDE, Intellij IDEA
 <br><br>    
-
-**Junior developer** at [Bilbomática](https://www.bilbomatica.es/), consulting for [DGOJ](https://www.ordenacionjuego.es/) <span class="daterange">_(Nov 2019 - Feb 2021)_</span> <br>
-Consulting service for the Spanish Gambling Regulation Authority, supporting legacy applications that process requests related to gambling activities.
-  - **_Tasks:_** Development, maintenance, versioning, accessibility fixes, testing and deployment of framework and non-framework applications
-    - Developed a repository that centralized citizen and enterprise information which was previously stored independently by the different DGOJ's applications, created the subsequent data migration processes and integrated across the project
-    - Implemented new internal libraries
-    - Updated the in-house framework to comply with new security requirements
-  - **_Environment:_** Java 1.8 / J2EE (Spring 3, Struts, Maven, Hibernate / Ibatis / JDBC, SOAP Web Services, JUnit), Subversion, Oracle Database, Alfresco, Apache Tomcat
-  - **_Tools:_** Eclipse IDE, Oracle SQL Developer, SoapUI
-<br><br>
-
-**Junior developer** at [Bilbomática](https://www.bilbomatica.es/), consulting for Madrid Digital <span class="daterange">_(Oct 2019)_</span> <br>
-Consulting service for the Community of Madrid's Digital Administration Agency, migrating their quality control procedures into SonarQube using custom rules.
-  - **_Tasks:_** Study the feasibility of converting existing custom Cover (proprietary quality analysis software) rules to Sonar
-    - [Learnt](https://github.com/sebaslavigne/sonar-klingon-plugin) Sonar custom rule development, library integration, external report importing, custom metrics and post-analysis process implementation
-    - Documented methodology to easily interpret equivalent concepts from Cover to Sonar
-    - Established a platform with examples encompassing all the required types of rules present in the project
-  - **_Environment:_** SonarQube 7, Java 1.8, Subversion
-  - **_Tools:_** IntelliJ IDEA
-<br><br>
 
 **Full stack developer intern** at [Docuten](https://docuten.com) <span class="daterange">_(Mar 2019 - May 2019)_</span> <br>
 A digital signature and electronic invoicing, and payments service.
