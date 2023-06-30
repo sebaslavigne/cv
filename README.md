@@ -2,7 +2,7 @@
 
 **Software engineer** at [RHEA](https://www.rheagroup.com/) <span class="daterange">_(Sep 2022 - present)_</span> <br>
 Ground Segment systems software engineering and technical support for ESA/ESOC and other space agencies and ventures.
-  - **_Tasks:_** Perform development, maintenance and provide user technical support on RHEA's MOIS platform (mission operations preparation, validation and execution) for various spacecraft missions on ESA/ESOC and Astroscale. Extend the ESA Ground Segment Engineering Framework (GSEF) to model earlier phases of mission design using MBSE approaches. Integrate telemmetry and event data visualisation in Grafana.
+  - **_Tasks:_** Perform development, maintenance and provide user technical support on RHEA's MOIS platform (mission operations preparation, validation and execution) for various spacecraft missions on ESA/ESOC and Astroscale. Extend the ESA Ground Segment Engineering Framework (GSEF) to model earlier phases of mission design using MBSE approaches. Integrate telemetry and event data visualisation in Grafana.
   - **_Environment:_** Java, VB.NET, Python
   - **_Tools:_** Docker, JIRA, SysMLv2, Eclipse EMF, MOIS, GSEF, Grafana
 <br><br> 
