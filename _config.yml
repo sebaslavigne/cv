@@ -208,7 +208,8 @@ content:
                     <li><mark>C#</mark>: proficient</li>
                     <li><mark>VB.NET</mark>: intermediate</li>
                     <li><mark>Fortran</mark>: intermediate</li>
-                    <li><mark>C++</mark>: novice</li>
+                    <li><mark>C++</mark>: novice<br><br></li>
+                    <li><mark>Docker</mark>, <mark>bash</mark></li>
                     <li><mark>SQL</mark> (Oracle, MySQL, PostgreSQL)</li>
                     <li><mark>HTML</mark>, <mark>CSS</mark> and <mark>JS</mark></li>
                     <li><mark>LaTeX</mark>, <mark>Markdown</mark></li>
@@ -222,12 +223,12 @@ content:
 
       
 
-  - title: When not on the job
+  - title: In my free time
     layout: text
     content: | # this will include new lines to allow paragraphs
       Outside of work I enjoy doing a little bit of everything, balancing active and relaxing times.
       
-      I enjoy hosting and cooking for friends, or getting together for boardgames and picnics in the park. If I want to disconnect I like swimming, going on little hikes, skiing in the winter and camping in the summer. And when staying home, I will either be puzzling myself with some project or unwinding with history or sci-fi books and shows.
+      I love hosting and cooking for friends, or getting together for boardgames and picnics in the park. If I want to disconnect I like swimming, going on little hikes, skiing in the winter and camping in the summer. And when staying home, I will either be puzzling myself with some project or unwinding with history or sci-fi books and shows.
 
 # Footer
 footer_show_references: false
