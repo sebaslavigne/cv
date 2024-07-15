@@ -72,7 +72,7 @@ content:
 
             ## Tasks
 
-            - Develop and provide support for <mark>MOIS</mark> - a suite of tools for mission operations preparation, validation and execution via a <mark>MCS</mark> - in various spacecraft missions on ESA/ESOC and Astroscale, directly communicating with mission controllers and addressing their needs.
+            - Develop and provide support for <mark>MOIS</mark> - a suite of tools for mission operations preparation, validation, simulation and execution via a <mark>MCS</mark> - in various spacecraft missions on ESA/ESOC and Astroscale, directly communicating with mission controllers and addressing their needs.
             - Modernise and iterate the Operation Preparation Facility <mark>OPF</mark> for Galileo's second generation. Following <mark>SAFe</mark> practices, revise Validation Testing Specification <mark>VTS</mark>, design testing campaign and testing automation, and <mark>CI</mark> implementation. 
             - Extend ESA's Ground Segment Engineering Framework <mark>GSEF</mark> to model early phases of mission design in <mark>SysML v2</mark> using <mark>MBSE</mark> approaches, analysing stakeholder expectations, designing and implementing accordingly.
             - Prototype <mark>EGS-CC</mark> telemetry and event data visualisation in <mark>Grafana</mark>.
