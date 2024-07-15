@@ -120,14 +120,14 @@ content:
         sub_title: Full stack developer intern
         caption: March 2019 - May 2019
         quote: >
-          Digital signature, electronic invoicing, and payments service.
+          I couldn't have asked for a better internship. The standard of quality, the work ethic, and the healthy environment I experienced during my time here set high standards that I have lived up to and sought since. I will always be very thankful to my mentors, with whom I still maintain a relationship.
         description: | # this will include new lines to allow paragraphs
-            - **_Tasks:_** Development, support and maintenance for the web portal and various APIs
-              - Brought up to speed in an Agile environment working as a full-fledged member of the tech team
-            - **_Environment:_** Java 1.8 (Spring 4, Struts 2, Hibernate, Gradle, Groovy, Spock), Javascript (Bootstrap), Git (Git Flow), MySQL, SOAP, REST, Scrum
-            - **_Tools:_** IntelliJ IDEA, MySQL Workbench, SoapUI, Postman, Jenkins, SonarQube, JIRA
+            Software development for a digital signature, electronic invoicing, and payments service.
+            ## Tasks
+            - Development, support and maintenance for the web portal, the business layer and various APIs coded in <mark>Java</mark> with <mark>Spring</mark>, <mark>Struts</mark> and <mark>Hibernate</mark>, with a <mark>TDD</mark> approach and organized in <mark>Scrum</mark>.
+            - Brought up to speed in an agile environment, quickly becoming a full-fledged member of the tech team.
 
-  - title: Projects # Title for the section
+  - title: Other projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -164,23 +164,23 @@ content:
           A fun school project, and an experiment in starting from scratch with a graphics engine based on a blank <mark>Swing</mark> canvas, a custom game engine and a command interpreter as the main way for the player to interact with the game.
 
   - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        border: weak
-        title: Cross-platform Application Development Degree
-        caption: 2017 - 2019
-        sub_title: I.E.S Valle del Jerte, Plasencia, Spain
-        quote: >
-          TODO
-        description: | # this will include new lines to allow paragraphs
+    layout: text # Type of content section (list/text)
+    content: | # this will include new lines to allow paragraphs
+      <h4 style="font-weight: 500;">Cross-platform Application Development Degree</h4>
 
-      - layout: left
-        title: Bachelor's Degree in Aerospatial Engineering
-        caption: 2011 - 2015
-        sub_title: (Unfinished) <br> Escuela Técnica Superior de Ingeniería Aeronáutica y del Espacio, UPM, Madrid, Spain
-        description: | # this will include new lines to allow paragraphs
-          TODO. Also, my first taste in learning programming formally was here, with <mark>Fortran</mark>.
+      <p style="margin-bottom: 3px;
+        font-size: 1.6rem;
+        text-align: inherit;
+        font-weight: 300;">2017 - 2019<br>
+      <em>I.E.S Valle del Jerte, Plasencia, Spain</em></p>
+
+      <h4 style="font-weight: 500; margin-top: 1em;">Bachelor's Degree in Aerospatial Engineering (unfinished)</h4>
+
+      <p style="margin-bottom: 3px;
+        font-size: 1.6rem;
+        text-align: inherit;
+        font-weight: 300;">2011 - 2015<br>
+      <em>Escuela Técnica Superior de Ingeniería Aeronáutica y del Espacio, UPM, Madrid, Spain</em></p>
 
   - title: Language skills
     layout: text
@@ -209,10 +209,9 @@ content:
                     <li><mark>VB.NET</mark>: intermediate</li>
                     <li><mark>Fortran</mark>: intermediate</li>
                     <li><mark>C++</mark>: novice</li>
-                    <li><mark>HTML</mark>, <mark>CSS</mark>, <mark>JavaScript</mark> (<mark>JQuery</mark>, <mark>Bootstrap</mark>)</li>
-                    <li><mark>XML</mark>, <mark>JSON</mark>, <mark>YAML</mark></li>
-                    <li><mark>LaTeX</mark>, <mark>Markdown</mark></li>
                     <li><mark>SQL</mark> (Oracle, MySQL, PostgreSQL)</li>
+                    <li><mark>HTML</mark>, <mark>CSS</mark> and <mark>JS</mark></li>
+                    <li><mark>LaTeX</mark>, <mark>Markdown</mark></li>
                 </ul>
                 </div>
             </div>
@@ -223,13 +222,15 @@ content:
 
       
 
-  - title: A Little More About Me
+  - title: When not on the job
     layout: text
     content: | # this will include new lines to allow paragraphs
-      TODO
+      Outside of work I enjoy doing a little bit of everything, balancing active and relaxing times.
+      
+      I enjoy hosting and cooking for friends, or getting together for boardgames and picnics in the park. If I want to disconnect I like swimming, going on little hikes, skiing in the winter and camping in the summer. And when staying home, I will either be puzzling myself with some project or unwinding with history or sci-fi books and shows.
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
