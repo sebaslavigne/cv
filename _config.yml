@@ -1,3 +1,243 @@
-theme: jekyll-theme-minimal
-title: Sebastián Lavigne
-description: Software developer
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Sebastián Lavigne Kálmar
+title: Software engineer
+email: sebastianlavigne@gmail.com
+# website: https://sebaslavigne.github.io/cv/
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+# twitter_username: jekyll
+github_username:  sebaslavigne
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jameswgrant
+linkedin_username: sebas-lavigne
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, I'm Sebas, a passionate individual, always eager to increase my knowledge and very enthusiastic about my work. I adapt with ease to new teams and environments, enjoy methodical, creative and intuitive work, and strive to leave a trace of quality and craftsmanship in my tasks.
+
+  The things I currently have most experience with are: <mark>Java</mark>, <mark>Python</mark>, <mark>CI/CD</mark>, containerization (mostly <mark>Docker</mark>), <mark>Static Code Analysis</mark>, <mark>SysML v2</mark> model definition, and formal documentation. I also find myself often doing some general tinkering to test new things and running the kettle.
+
+  Spanish national, currently living in Darmstadt, Germany.
+
+content:
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border: weak
+        title: Starion Group
+        link: https://www.stariongroup.eu/
+        link_text: stariongroup.eu
+        sub_title: Ground Segment software engineer
+        caption: September 2022 - Present
+        quote: >
+          Tuning into the motions of the space industry software cycles, fostering relations with spacecraft operators with high stakes requirements, moving country - the last two years have provided plenty of challenges.
+        description: | # this will include new lines to allow paragraphs
+            Ground Segment systems software engineering and technical support for ESA/ESOC and other space agencies and ventures.
+
+            ## Tasks
+
+            - Develop and provide support for <mark>MOIS</mark> - a suite of tools for mission operations preparation, validation and execution via a <mark>MCS</mark> - in various spacecraft missions on ESA/ESOC and Astroscale, directly communicating with mission controllers and addressing their needs.
+            - Modernise and iterate the Operation Preparation Facility <mark>OPF</mark> for Galileo's second generation. Following <mark>SAFe</mark> practices, revise Validation Testing Specification <mark>VTS</mark>, design testing campaign and testing automation, and <mark>CI</mark> implementation. 
+            - Extend ESA's Ground Segment Engineering Framework <mark>GSEF</mark> to model early phases of mission design in <mark>SysML v2</mark> using <mark>MBSE</mark> approaches, analysing stakeholder expectations, designing and implementing accordingly.
+            - Prototype <mark>EGS-CC</mark> telemetry and event data visualisation in <mark>Grafana</mark>.
+      
+      - layout: left
+        border: weak
+        title: MTP
+        link: https://www.mtp.es/
+        link_text: mtp.es
+        sub_title: QA engineer
+        caption: June 2021 - September 2022
+        quote: >
+          Playing "quality police" and seeing another side of development was a welcome addition to a general understanding of software lifecycles and how teams with different motivations can synergize with each other.
+        description: | # this will include new lines to allow paragraphs
+            Quality assurance and continuous integration consulting for insurance and banking industries, and government institutions.
+            
+            ## Tasks
+
+            - Lead developer in a migration of code analysis processes at Bank of Spain from <mark>checKing</mark> to <mark>Kiuwan</mark>. Developed a library for mapping data and perform massive migration of apps, created new custom rules, implemented a metric storage solution with <mark>Spring Boot</mark>, an <mark>Oracle DB</mark>, accessed via a <mark>RESTful API</mark> and deployable in <mark>Docker</mark>. Trained teams in the use and maintenance of the new tools for handover.
+            - Analysis, design and establishment of QA audits in various projects, specialising in static code analysis with <mark>SonarQube</mark> and <mark>Kiuwan</mark>.
+            - Direct consultation with clients' development teams, automation of data extraction from APIs, custom reporting and configuration of <mark>CI</mark> pipelines.
+
+      - layout: left
+        border: weak
+        title: Bilbomática
+        link: https://www.bilbomatica.es/
+        link_text: bilbomatica.es
+        sub_title: Junior / Senior developer
+        caption: October 2019 - May 2021
+        quote: >
+          Working on big legacy applications was a great exercise in understanding all the moving parts and acting with restraint. Here also, for new developments, the goal was to match the robustness of sister software that had withstood the test of time.
+        description: | # this will include new lines to allow paragraphs
+            Software development consulting services for various Spanish public administration institutions.
+
+            ## Tasks
+
+            - General software engineering duties - analysis, development, maintenance, quality control, versioning, testing, deployment and documentation - in various <mark>Java</mark> legacy applications.
+            - Developed a centralized user data repository to replace previous separate solutions for the Gambling Regulatory Agency. Created the subsequent data migration processes and integrated across the projects.
+            - <mark>SonarQube</mark> custom rule development, library integration, external report importing, custom metrics and post-analysis process implementation for Madrid Digital.
+      
+      - layout: left
+        title: Docuten
+        link: https://www.docuten.com/
+        link_text: docuten.com
+        sub_title: Full stack developer intern
+        caption: March 2019 - May 2019
+        quote: >
+          Digital signature, electronic invoicing, and payments service.
+        description: | # this will include new lines to allow paragraphs
+            - **_Tasks:_** Development, support and maintenance for the web portal and various APIs
+              - Brought up to speed in an Agile environment working as a full-fledged member of the tech team
+            - **_Environment:_** Java 1.8 (Spring 4, Struts 2, Hibernate, Gradle, Groovy, Spock), Javascript (Bootstrap), Git (Git Flow), MySQL, SOAP, REST, Scrum
+            - **_Tools:_** IntelliJ IDEA, MySQL Workbench, SoapUI, Postman, Jenkins, SonarQube, JIRA
+
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        border: weak
+        title: Bear my Banner
+        link: nexusmods.com/mountandblade2bannerlord/mods/432
+        # link_text: aaa
+        additional_links:
+          - title:  sebaslavigne/BearMyBanner
+            icon: fab fa-github
+            url: github.com/sebaslavigne/BearMyBanner
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Bear my Banner is a highly customizable mod for Mount & Blade II: Bannerlord.
+        description: | # this will include new lines to allow paragraphs
+          This was a nice opportunity for learning <mark>C#</mark> and overcoming different kinds of programming challenges. It was also very rewarding to collaborate with other creators and give players a simpler, better modding experience.
+
+      - layout: top-middle
+        title: Java Untersee
+        link: github.com/sebaslavigne/java-untersee
+        # link_text: aaa
+        additional_links:
+          - title:  sebaslavigne/java-untersee
+            icon: fab fa-github
+            url: github.com/sebaslavigne/java-untersee
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          A submarine simulation game prototype written in Java.
+        description: | # this will include new lines to allow paragraphs
+          A fun school project, and an experiment in starting from scratch with a graphics engine based on a blank <mark>Swing</mark> canvas, a custom game engine and a command interpreter as the main way for the player to interact with the game.
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border: weak
+        title: Cross-platform Application Development Degree
+        caption: 2017 - 2019
+        sub_title: I.E.S Valle del Jerte, Plasencia, Spain
+        quote: >
+          TODO
+        description: | # this will include new lines to allow paragraphs
+
+      - layout: left
+        title: Bachelor's Degree in Aerospatial Engineering
+        caption: 2011 - 2015
+        sub_title: (Unfinished) <br> Escuela Técnica Superior de Ingeniería Aeronáutica y del Espacio, UPM, Madrid, Spain
+        description: | # this will include new lines to allow paragraphs
+          TODO. Also, my first taste in learning programming formally was here, with <mark>Fortran</mark>.
+
+  - title: Language skills
+    layout: text
+    content: | #
+      <div class="container">
+        <div class="row">
+            <div class="col-lg-2 col-md-2 col-sm-2 col-12"></div>
+            <div class="col-lg-4 col-md-4 col-sm-4 col-12 text-center" >
+                <h2>For humans</h2>
+                <div style="display:flex; justify-content:center">
+                <ul>
+                    <li><strong>Spanish</strong>: native</li>
+                    <li><strong>English</strong>: bilingual</li>
+                    <li><strong>French</strong>: conversational</li>
+                    <li><strong>German</strong>: basic</li>
+                </ul>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4 col-12 text-center">
+                <h2>For computers</h2>
+                <div style="display:flex; justify-content:center">
+                <ul>
+                    <li><mark>Java</mark>: proficient</li>
+                    <li><mark>Python</mark>: proficient</li>
+                    <li><mark>C#</mark>: proficient</li>
+                    <li><mark>VB.NET</mark>: intermediate</li>
+                    <li><mark>Fortran</mark>: intermediate</li>
+                    <li><mark>C++</mark>: novice</li>
+                    <li><mark>HTML</mark>, <mark>CSS</mark>, <mark>JavaScript</mark> (<mark>JQuery</mark>, <mark>Bootstrap</mark>)</li>
+                    <li><mark>XML</mark>, <mark>JSON</mark>, <mark>YAML</mark></li>
+                    <li><mark>LaTeX</mark>, <mark>Markdown</mark></li>
+                    <li><mark>SQL</mark> (Oracle, MySQL, PostgreSQL)</li>
+                </ul>
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-2 col-sm-2 col-12"></div>
+        </div>
+      </div>
+
+
+      
+
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      TODO
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
